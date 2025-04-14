@@ -1,0 +1,6 @@
+spring:
+  application:
+     name: client-sevice
+
+greetings:
+    message: Hello from the congig server!
